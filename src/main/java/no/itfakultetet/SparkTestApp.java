@@ -1,4 +1,6 @@
 package no.itfakultetet;
+import org.apache.spark.sql.SparkSession;
+
 import static org.apache.spark.sql.functions.concat;
 
 public class SparkTestApp {
